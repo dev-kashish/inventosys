@@ -1,5 +1,8 @@
 # InventoSys
 
+> ## ⚠ Disclaimer ⚠
+> This software is provided by the creators on an "AS IS" and "AS AVAILABLE" basis. The creators make no representation or warranties of any kind, express or implied, as to the operation of the software or the information, content, materials, or products included on this site. To the full extent permissible by applicable law, the creators disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. Without limiting the foregoing, the creators disclaim any and all warranties, express or implied, for any marchandise offered on this software. You acknowledge, by your use of the software, that your use of the software is at your sole risk. This disclaimer constitutes an essential part of this agreement.
+
 ## Installation
 - Download & Extract [InventoSys.zip](https://github.com/dev-kashish/inventosys/releases).
 - Move the `InventoSys` Folder into the `C:\` directory.
