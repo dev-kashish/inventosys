@@ -18,6 +18,8 @@
 - Report generation with filtering.
 - Clean & minimalist UI/UX.
 
+https://github.com/dev-kashish/inventosys/assets/125540624/09d5ec50-c143-45f5-80ff-948ebe711583
+
 ⚠ Warning : The database itself is not encrypted or password protected.
 
 ## Screenshots
