@@ -5,6 +5,18 @@
 - Move the `InventoSys` Folder into the `C:\` directory.
 - Create a shortcut or Pin to Start or Pin to taskbar the `InventoSys.exe` (the main executable) file.
 
+## Features
+
+- Application access using Username and Password.
+- Username and Password stored as SHA256 hashes.
+- CRUD operations on the local database.
+- Portable (can be stored on a USB, no installation required).
+- Graphical Dashboard Page for quick analysis.
+- Report generation with filtering.
+- Clean & minimalist UI/UX.
+
+⚠ Warning : The database itself is not encrypted or password protected.
+
 ## Screenshots
 
 ### Login Window
