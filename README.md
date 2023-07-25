@@ -6,6 +6,7 @@
 ## Installation
 - Download & Extract [InventoSys.zip](https://github.com/dev-kashish/inventosys/releases).
 - Move the `InventoSys` Folder into the `C:\` directory.
+- Install all the dependencies provided in the `InventoSys/Resources/` folder.
 - Create a shortcut or Pin to Start or Pin to taskbar the `InventoSys.exe` (the main executable) file.
 
 ## Features
